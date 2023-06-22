@@ -1,0 +1,28 @@
+{
+  "name": "battlebit.js",
+  "version": "0.0.1",
+  "description": "Interact with the official Battlebit API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpatzlHD/battlebit.js.git"
+  },
+  "keywords": [
+    "Battlebit",
+    "Steam",
+    "Battlebit Remasterd",
+    "API"
+  ],
+  "author": "Alexander Kögel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpatzlHD/battlebit.js/issues"
+  },
+  "homepage": "https://github.com/SpatzlHD/battlebit.js#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
